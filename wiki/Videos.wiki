@@ -1,6 +1,10 @@
 #summary Videos of J5
 #labels Featured
 
-= J5 Following his favourite red ball... =
 
+= J5 Following his tracking a red ball... =
 <wiki:video url="http://www.youtube.com/watch?v=zT7mYID0aXU"/>
+
+
+= J5 Following his favourite red ball and maintaining a distance:=
+<wiki:video url="http://www.youtube.com/watch?v=xdh4CsXkaYE"/>
