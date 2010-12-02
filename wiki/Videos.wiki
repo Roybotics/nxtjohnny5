@@ -2,7 +2,7 @@
 #labels Featured
 
 
-= J5 Following his tracking a red ball... =
+= J5 tracking a red ball... =
 <wiki:video url="http://www.youtube.com/watch?v=zT7mYID0aXU"/>
 
 
